@@ -1,5 +1,5 @@
 '''
-As the name suggests, this program  calculates the Body Mass Index (BMI) for a user
+As the name suggests, this program  calculates the Body Mass Index (BMI) for an user
 It prompts the user to enter their weight( Kg) and heights(meters.
 After the user has entered the required fields, the program calculates Body Mass Index (BMI).
 It determines which Body Mass Index category you are following in.
